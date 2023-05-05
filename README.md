@@ -64,7 +64,6 @@ This project was build using Ruby on Rails
   </ul>
 </details>
 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -104,17 +103,9 @@ To run the project, execute the following command:
   rails server
 ```
 
-### Deployment
+### Frontend pull request link
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+[@Frontend](https://github.com/Josphat205/hello-react-frontend/pull/1)
 
 <!-- AUTHORS -->
 
